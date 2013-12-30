@@ -5,7 +5,4 @@ class PagesController < ApplicationController
   def about
   end
 
-  def profiles
-  end
-  
 end
